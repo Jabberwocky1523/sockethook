@@ -1,0 +1,8 @@
+﻿  CTcpClient.cpp
+C:\Users\Kurisu\source\repos\HookSocketT\HookSocketT\CTcpClient.cpp(9,9): warning C4005: “_WIN32_WINNT”: 宏重定义
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sdkddkver.h(224,10):
+      参见“_WIN32_WINNT”的前一个定义
+  
+  HookApp.cpp
+  正在生成代码...
+  HookSocketT.vcxproj -> C:\Users\Kurisu\source\repos\HookSocketT\x64\Debug\HookSocketT.exe

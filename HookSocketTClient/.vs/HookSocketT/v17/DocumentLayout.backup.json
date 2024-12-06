@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kurisu\\source\\repos\\HookSocketT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250892E3-3FA5-40EF-A3FA-95196ED6CBD7}|HookSocketT\\HookSocketT.vcxproj|C:\\Users\\Kurisu\\source\\repos\\HookSocketT\\HookSocketT\\HookApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{250892E3-3FA5-40EF-A3FA-95196ED6CBD7}|HookSocketT\\HookSocketT.vcxproj|solutionrelative:HookSocketT\\HookApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250892E3-3FA5-40EF-A3FA-95196ED6CBD7}|HookSocketT\\HookSocketT.vcxproj|C:\\Users\\Kurisu\\source\\repos\\HookSocketT\\HookSocketT\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{250892E3-3FA5-40EF-A3FA-95196ED6CBD7}|HookSocketT\\HookSocketT.vcxproj|solutionrelative:HookSocketT\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Kurisu\\source\\repos\\HookSocketT\\HookSocketT\\packages.config",
+              "RelativeDocumentMoniker": "HookSocketT\\packages.config",
+              "ToolTip": "C:\\Users\\Kurisu\\source\\repos\\HookSocketT\\HookSocketT\\packages.config",
+              "RelativeToolTip": "HookSocketT\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-06T02:46:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HookApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Kurisu\\source\\repos\\HookSocketT\\HookSocketT\\HookApp.cpp",
+              "RelativeDocumentMoniker": "HookSocketT\\HookApp.cpp",
+              "ToolTip": "C:\\Users\\Kurisu\\source\\repos\\HookSocketT\\HookSocketT\\HookApp.cpp",
+              "RelativeToolTip": "HookSocketT\\HookApp.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvwsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T02:43:58.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
